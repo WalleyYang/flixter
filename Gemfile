@@ -24,6 +24,12 @@ gem 'devise', '>= 3.2.4'
 # Use Simple Form
 gem 'simple_form'
 
+gem 'carrierwave'
+
+gem 'figaro'
+
+gem "fog", "~> 1.3.1"
+
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
