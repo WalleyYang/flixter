@@ -26,6 +26,8 @@ gem 'simple_form'
 
 gem 'carrierwave'
 
+gem 'carrierwave-aws'
+
 gem 'figaro'
 
 gem "fog", "~> 1.3.1"
