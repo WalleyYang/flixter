@@ -28,6 +28,8 @@ gem 'simple_form'
 
 gem 'carrierwave'
 
+gem 'stripe'
+
 gem 'carrierwave-aws'
 
 gem 'figaro'
