@@ -38,6 +38,8 @@ gem "fog", "~> 1.3.1"
 
 gem 'mini_magick', '~> 4.3.1'
 
+gem 'ranked-model'
+
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
